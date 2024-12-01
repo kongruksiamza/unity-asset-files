@@ -6,10 +6,6 @@
 |   สร้างเกมแนว Horror ด้วย Unity        | [ดาวน์โหลด](https://mega.nz/file/3XZlDKpC#9UHnGjTlaEzMXIaZN6b63RL_auff3RBleuEbwa97C0Q) |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMCJzmdMVupw2BSfgei5XV8U)|
 |   สร้างเกมแนวต่อสู้ด้วย Unity (Fighting Game)        | [ดาวน์โหลด](https://mega.nz/file/PPxkWSqY#zi6gukLpFVZbgsRRVVar96NPUHXwwihVbrwOJCXSt14) |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMBuRkl_KYOpryy3mCmzWMWf)|
 |   สร้างเกมคณิตคิดเร็ว ด้วย Unity        | [ดาวน์โหลด](https://mega.nz/file/ibRlmKLI#5Qi2R6scU4YWsoXlpzGOoWIl8t87ccinPkaM6I9ViK0) |[เข้าเรียน](https://youtu.be/I6EOBr_2X8g?si=BTHv1VE-3avMlnma)|
-
-## 🚀 Guideline & Documents
-- แนวทางการเรียนรู้การพัฒนาเกม (Game Development) [อ่านบทความ](https://github.com/kongruksiamza/game-guideline)
-- เอกสารสอนเขียนโปรแกรมฟรี (.pdf) [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education)
   
 ## 🎓 คอร์สเรียนที่น่าสนใจ [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/user/kong-ruksiam/)
 - [สร้างเกม 3D ด้วยโปรแกรม Unity](https://www.udemy.com/course/unity-3d-game/?referralCode=F02D3B6DC87F9D3CB1CB)
